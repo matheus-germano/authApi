@@ -1,0 +1,17 @@
+{
+  "name": "authApi",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Matheus Germano da Costa <dev.mgermano@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7",
+    "nodemon": "^2.0.12"
+  }
+}
