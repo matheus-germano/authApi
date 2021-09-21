@@ -1,2 +1,2 @@
 # authApi
- A Rest API developed with studies purposes where you can created an user and authenticate it.
+ A Rest API developed to studies purposes where you can created an user and authenticate it.
